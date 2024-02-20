@@ -16,6 +16,7 @@ public class NewMain {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        // nama elvina polinema fjfujyf
         // TODO code application logic here
         Scanner s=new Scanner(System.in);
         System.out.print("Masukkan Panjang : ");
