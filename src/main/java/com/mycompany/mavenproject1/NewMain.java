@@ -23,7 +23,7 @@ public class NewMain {
         System.out.print("Masukkan Lebar : ");
         int lebar=s.nextInt();
         int luas=panjang*lebar;
-        System.err.println("Luas persegi panjang : "+luas);
+        System.err.println("Luas persegi panjang adalah : "+luas);
     }
     
 }
